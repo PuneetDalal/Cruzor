@@ -10,6 +10,8 @@ mkdir build && cd build
 cmake ..
 make
 ./GameEngine 
+
+
 ## References
 
 - This project is based on examples and concepts from the official **OpenGL Programming Guide (Red Book)**.
