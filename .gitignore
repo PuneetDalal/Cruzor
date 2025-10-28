@@ -1,0 +1,25 @@
+# Build folders
+out/
+build/
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+*.o
+*.obj
+*.pdb
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+
+# External dependencies
+external/glad/
+external/pybind11/
+glad.zip
+
+# IDE and system files
+.vscode/
+.idea/
+*.log
+.DS_Store
